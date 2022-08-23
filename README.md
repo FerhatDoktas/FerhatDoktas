@@ -1,5 +1,7 @@
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Ferhat+Doktas;Welcome+to+my+Github+profile;I'm+Fullstack+Developer...;)](https://git.io/typing-svg)
+<p align="center">
+
 # Hello there!!! It is really nice to see you!!!!! :sunglasses:
-- :wave: I'm Ferhat
 - :eyes: I'm interested in Web Development
 - :seedling: I've been learning HTML, CSS, Bootstrap, JavaScript, SQL,REACT
 - :speech_balloon: Ask me anything about Tech World.
